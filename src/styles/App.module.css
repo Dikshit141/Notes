@@ -1,0 +1,12 @@
+.app {
+    height: 100%;
+  }
+  
+  .app h1 {
+    line-height: 2;
+    font-weight: 50000;
+    text-align: center;
+  
+    margin: 5rem 0;
+  }
+  
